@@ -1,7 +1,7 @@
 # test_plan
-git init
-
 git add .
+
+git init
 
 git status
 
